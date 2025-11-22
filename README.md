@@ -1,15 +1,32 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/0fYi8SGA20k?feature=shared" target="_blank">
-      <img src="https://github.com/amirthegreat1/my-3D-portfolio/src/assets/banner.png" alt="Project Banner">
-    </a>
+    <img 
+      src="https://raw.githubusercontent.com/amirthegreat1/my-3D-portfolio/main/src/assets/banner.png" 
+      alt="Project Banner"
+    />
   <br />
+</div>
 
-  <div>
-    <img src="https://github.com/amirthegreat1/my-3D-portfolio/src/assets/react.svg" alt="react.js" />
-    <img src="https://github.com/amirthegreat1/my-3D-portfolio/src/assets/threejs.svg" alt="three.js" />
-    <img src="https://github.com/amirthegreat1/my-3D-portfolio/src/assets/tailwindcss.svg" alt="tailwindcss" />
-  </div>
+
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/amirthegreat1/my-3D-portfolio/main/src/assets/react.svg" 
+    alt="react.js" 
+    height="48"
+  />
+  <img 
+    src="https://raw.githubusercontent.com/amirthegreat1/my-3D-portfolio/main/src/assets/threejs.svg" 
+    alt="three.js" 
+    height="48"
+  />
+  <img 
+    src="https://raw.githubusercontent.com/amirthegreat1/my-3D-portfolio/main/src/assets/tailwind.svg" 
+    alt="tailwindcss" 
+    height="48"
+  />
+</div>
+
+
 
   <h3 align="center">A 3D Developer Portfolio</h3>
 
@@ -25,21 +42,10 @@
 6. 🔗 [Links](#links)
 7. 🚀 [More](#more)
 
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://youtu.be/0fYi8SGA20k?feature=shared" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
 By developing this project, you will gain hands-on experience in crafting immersive web experiences, mastering 3D libraries, and implementing engaging animations. The combination of creativity and technical skills showcased in this project serves as an excellent learning opportunity for developers seeking to enhance their portfolio and captivate users with cutting-edge web design.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -47,7 +53,6 @@ If you're getting started and need assistance or face any bugs, join our active 
 - Three.js
 - React Three Fiber
 - React Three Drei
-- Email JS
 - Vite
 - Tailwind CSS
 
@@ -86,8 +91,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone git@github.com:adrianhajdin/project_3D_developer_portfolio.git
-cd project_3D_developer_portfolio
+git clone git@github.com:https://github.com/amirthegreat1/my-3D-portfolio
+cd my-3D-portfolio
 ```
 
 **Installation**
@@ -98,17 +103,6 @@ Install the project dependencies using npm:
 npm install
 ```
 
-**Set Up Environment Variables**
-
-Create a new file named `.env` in the root of your project and add the following content:
-
-```env
-REACT_APP_EMAILJS_USERID=your_emailjs_user_id
-REACT_APP_EMAILJS_TEMPLATEID=your_emailjs_template_id
-REACT_APP_EMAILJS_RECEIVERID=your_emailjs_receiver_id
-```
-
-Replace the placeholder values with your actual EmailJS credentials. You can obtain these credentials by signing up on the [EmailJS website](https://www.emailjs.com/).
 
 **Running the Project**
 
@@ -747,12 +741,4 @@ module.exports = {
 
 Models and Assets used in the project can be found [here](https://drive.google.com/drive/folders/1KVU8iaH0E_JFtShNiR3BgCSA3pawXY4Z)
 
-## <a name="more">🚀 More</a>
 
-**Advance your skills with Next.js Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning experience. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
-<img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
-</a>
